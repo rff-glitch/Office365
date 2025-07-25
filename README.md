@@ -30,3 +30,19 @@ This repository contains a script designed to install and activate Microsoft Off
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/rff-glitch/Office365.git
+
+
+Navigate to the Repository:
+cd Office365
+Ensure a stable Wi-Fi connection is active.
+Usage
+Run the Script as Administrator:
+Right-click the script file (e.g., activate.cmd) and select "Run as administrator" if available.
+Follow on-screen prompts (if any).
+Restart your computer after the script completes.
+Open an Office app to verify installation and activation.
+Note: Specific script details are not provided, and some files may be missing. Refer to the repository for the latest status or contact the owner for assistance.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+Disclaimer
+This script is provided "as is" without warranty. The repository owner is not affiliated with Microsoft and does not endorse or guarantee the legality or functionality of this tool. Users are solely responsible for ensuring compliance with all applicable laws and Microsoft’s licensing terms.
