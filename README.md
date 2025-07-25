@@ -1,1 +1,2 @@
 # Office365
+office 365 free download and lifetime activation with on script . all what u need is a wifi connection while installing. after the script end restart your computer and enjoy office apps (word , exel, PowerPoint)
