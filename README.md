@@ -32,10 +32,13 @@ This repository contains a script designed to install and activate Microsoft Off
    git clone https://github.com/rff-glitch/Office365.git
 
 
-Navigate to the Repository:
-cd Office365
+2. **Navigate to the Repository**:
+   ```bash
+   cd Office365
+
 Ensure a stable Wi-Fi connection is active.
-Usage
+
+##Usage 
 Run the Script as Administrator:
 Right-click the script file (e.g., activate.cmd) and select "Run as administrator" if available.
 Follow on-screen prompts (if any).
