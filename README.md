@@ -36,7 +36,7 @@ This repository contains a script designed to install and activate Microsoft Off
    ```bash
    cd Office365
 
--**Ensure a stable Wi-Fi connection is active.
+-**Ensure a stable Wi-Fi connection is active.**
 
 ##Usage 
 1.**Run the Script as Administrator**:
