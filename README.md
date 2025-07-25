@@ -42,7 +42,7 @@ This repository contains a script designed to install and activate Microsoft Off
  
 1.**Run the Script as Administrator**:
 Right-click the script file (e.g., activate.cmd) and select "Run as administrator" if available.
-2.**Follow on-screen prompts **(if any).
+2.**Follow on-screen prompts ** (if any).
 3.**Restart your computer after the script completes**.
 -Open an Office app to verify installation and activation.
 ##Note: Specific script details are not provided, and some files may be missing. Refer to the repository for the latest status or contact the owner for assistance.
