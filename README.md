@@ -45,7 +45,7 @@ Right-click the script file (e.g., activate.cmd) and select "Run as administrato
 - **Follow on-screen prompts (if any)**.
 - **Restart your computer after the script completes**.
 - Open an Office app to verify installation and activation.
-## Note: Specific script details are not provided, and some files may be missing. Refer to the repository for the latest status or contact the owner for assistance.
+## Note: Please give us a star if u find this script helpfull  .
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
